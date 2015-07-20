@@ -1,3 +1,0 @@
-9fff056b0cf73cd1a34ca48a103491e1ee42f051 add a message where I am working.
-cc8c9d939c483cc5ae84c2231603a9895bed7cb1 modify the readme.txt ,add a clause "I like developing work".
-660e58d04f05eabb6acb2cdfeef9e7c5d7625173 add the readme.txt
