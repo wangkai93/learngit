@@ -1,1 +1,1 @@
-I am a Android programer. I like develping work.
+I am a Android programer. I like develping work. Now I am working for CEO soft-center company.
