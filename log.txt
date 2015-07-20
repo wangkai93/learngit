@@ -1,0 +1,47 @@
+commit b822688ac0b3a9bb826b6047400e54ab82e0c848
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 15:39:06 2015 +0800
+
+    use git rm delete log.txt
+
+commit 0c3284e42821c67b91dcf757c57ec32bd871c99b
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 14:18:30 2015 +0800
+
+    my feelings now
+
+commit 3e2e387ece8bc868f496e8f845e6038dc6fc4019
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 14:11:34 2015 +0800
+
+    test how git is working
+
+commit 7ff5433ee12eea64b9bf59860ab787b378a4a920
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 14:08:52 2015 +0800
+
+    how git is working
+
+commit 819ed78226d917f64356a13512678c5e35ae9d10
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 13:52:23 2015 +0800
+
+    add log.txt,modify readme.txt
+
+commit 9fff056b0cf73cd1a34ca48a103491e1ee42f051
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 10:32:16 2015 +0800
+
+    add a message where I am working.
+
+commit cc8c9d939c483cc5ae84c2231603a9895bed7cb1
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 10:25:11 2015 +0800
+
+    modify the readme.txt ,add a clause "I like developing work".
+
+commit 660e58d04f05eabb6acb2cdfeef9e7c5d7625173
+Author: Carter Wang <carter.wang@ceosoftcenters.com>
+Date:   Mon Jul 20 10:11:32 2015 +0800
+
+    add the readme.txt
